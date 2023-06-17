@@ -7,11 +7,16 @@ Task 1: EKF
 run Task_1.m (main file)
 
 %%%%%%%%%%%%%%%%%%%%%
-Unfused13(1)
-Unfused13(2)
-Unfused13(3)
+Unfused13(1);
+
+Unfused13(2);
+
+Unfused13(3);
+
 Unfused46(4);		This part is function for 6 measurments, comment/uncomment for desired sensor filtering selection
+
 Unfused46(5);
+
 Unfused46(6);
 %%%%%%%%%%%%%%%%%%%%%
 
